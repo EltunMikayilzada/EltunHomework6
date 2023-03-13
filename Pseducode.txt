@@ -1,0 +1,25 @@
+Example2
+1. Initialize the limit sequence with the values ​​[3,-5.4,-10,20,42]
+2. Initialize the positive and negative variables with 0
+3. Loop through the limit array using a for loop with the index variable i
+4. Check if current element in array is greater than or equal to 0
+5. Add to the positive variable, if any
+6. If not, add it to the negative variable
+7. Print the Musbet value
+8. The value of Print menu
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Example3
+1. Set the limit to 4
+2. Create an array called "numbers" with the values ​​[1, 2, 5, 7, 8, 9]
+3. Create an empty array named "exp"
+4. An array of "numbers" using a for loop:
+a. If the current value is greater than the limit, add it to the "exp" array using the push method.
+5. Print the contents of the string "exp" using console.log
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Example5
+1. Declare an array named 'array' with some elements.
+2. Iterate over the 'array' elements using a for loop from 0 to the 'array' length.
+3. Check if the index of the current item is equal to the first occurrence of that item using the indexOf() method.
+4. If the index of the current item is equal to the first occurrence of that item, print that item.
+5. Exit the loop
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
